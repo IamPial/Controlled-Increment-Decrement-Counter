@@ -9,6 +9,10 @@ A simple yet smart counter application built with HTML, CSS, and JavaScript. Thi
 * Automatically resets input fields to default value (`1`) after each action.
 * Minimal and clean UI with number formatting (e.g., `01`, `02`, ...).
 
+## 📸 Preview
+
+![App Preview](path/to/your/screenshot.png)
+
 *** Technologies Used
 
 - HTML5
