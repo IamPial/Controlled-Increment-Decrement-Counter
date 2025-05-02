@@ -1,5 +1,4 @@
 /**
- * Date: 01.05.2025
  * Author : Pial Uddin
  * Description : Let's create a counter application with some fancy requirements
  */
@@ -15,7 +14,7 @@ const buttonDecrement = document.getElementById('decrement-btn');
 
 let counter;
 
-
+//Add an eventlistener with increment button
 buttonIncrement.addEventListener('click', function(){
     let increment = parseInt(incrementInput.value);
     let result = parseInt(resultBody.innerHTML);
@@ -33,7 +32,7 @@ buttonIncrement.addEventListener('click', function(){
 });
 
 
-
+//Add an eventlistener with decrement button
 buttonDecrement.addEventListener('click', function(){
 
     let decrement = parseInt(decrementInput.value);
