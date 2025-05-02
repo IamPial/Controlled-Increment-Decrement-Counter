@@ -11,7 +11,7 @@ A simple yet smart counter application built with HTML, CSS, and JavaScript. Thi
 
 ## 📸 Preview
 
-![App Preview](Controlled-Increment-Decrement-Counter/Screenshot.png)
+![App Preview](Screenshot.png)
 
 *** Technologies Used
 
